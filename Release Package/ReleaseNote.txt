@@ -1,0 +1,36 @@
+------------------------------------------------------------
+PRODUCT: PY DELTA CHAT
+	Include: 
+		PYDELTA  : Client
+		PYDELTASE: Server
+Version number: 1.0
+Date of the release : April 9, 2016
+------------------------------------------------------------
+What's implemented in this version:
+
+		Client: A very simple client
+		Server: A simple server 
+
+Product Description:
+	- This product provide a simple solution to chat on LAN network
+
+System requirements:
+	- Operation System: Windows	
+	- Python 2.7 
+
+Known Defects:
+	
+Documentation:
+	- The Project Design In Details [Tran Hai Dang].pdf
+	- User Guide [Tran Hai Dang].pdf
+	- Note about the connection and client-server session.pdf
+
+Installation Instructor:
+	- See entry "Installation" in "User Guide [Tran Hai Dang].pdf"
+
+
+Troubleshooting and Getting Help:
+	Contacting Technical Support:
+		Tran Hai Dang
+		Phone: +84188-470-2689
+		Email: dangdangkhtn@gmail.com
